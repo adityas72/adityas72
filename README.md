@@ -55,8 +55,8 @@ If you’re interested in:
 
 Let's code, create, and conquer together! 💙  
 
-
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityas72&theme=tokyo-night" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adityas72/adityas72/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 
