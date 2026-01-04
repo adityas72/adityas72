@@ -49,7 +49,7 @@ If you’re interested in:
  
 
 ## 🎯 Goals  
-- **Software Developer** at FANG
+- **Software Developer** at FAANG
 - Master **game development** & build my own indie game  
 - Contribute to open-source & collaborate with fellow developers  
 
