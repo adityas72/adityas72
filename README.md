@@ -14,7 +14,10 @@ I’m a B.Tech CSE student and **full-stack developer** who enjoys building scal
 - Passionate about gaming, competitive programming, and product thinking
 ✨ I believe in learning by building, not just tutorials.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityas72" alt="adityas72" /></a> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityas72&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityas72&theme=radical" />
+</p>
 
 ## 🤝 Let’s Collaborate
 If you’re interested in:
