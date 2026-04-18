@@ -1,4 +1,4 @@
-
+ 
 <h1 align="center">Hi 👋, I'm Aditya Singh</h1>
 <h3 align="center">🎮 Gamer by Passion | 💻 Coder by Heart | 🚀 Aspiring Software Developer</h3>
 
